@@ -13,7 +13,12 @@
 
 - 📄 Know about my experiences [https://1drv.ms/b/c/086110ac18fe337d/Ea02bL4zg91ColN_KQ5xtIkBKeJbSkpJ8PWALYudaaYyqQ?e=QeuRLW](https://1drv.ms/b/c/086110ac18fe337d/Ea02bL4zg91ColN_KQ5xtIkBKeJbSkpJ8PWALYudaaYyqQ?e=QeuRLW)
 
-- ⚡ Fun fact **🌐 My backend is faster than your Wi-Fi (thanks to FastAPI 😉). 📊 I don’t just code dashboards; I speak data. From time-series to market trends, I turn raw numbers into insights. 🛠️ From React frontends to LLM backends, I build full-stack AI products that actually work. 🎓 Also preparing for CAT, because why not throw in a little management with machine learning? 🛠️ I treat APIs like Lego blocks — building scalable AI tools that are fast, modular, and production-ready.**
+- ⚡ Fun fact
+-   **🌐 My backend is faster than your Wi-Fi (thanks to FastAPI 😉).
+-   📊 I don’t just code dashboards; I speak data. From time-series to market trends, I turn raw numbers into insights.
+-   🛠️ From React frontends to LLM backends, I build full-stack AI products that actually work.
+-   🎓 Also preparing for CAT, because why not throw in a little management with machine learning?
+-   🛠️ I treat APIs like Lego blocks — building scalable AI tools that are fast, modular, and production-ready.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
