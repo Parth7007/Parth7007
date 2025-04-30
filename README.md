@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/parth7007/parth7007/output/snake.svg" alt="Snake animation" />
+
 
 ###
